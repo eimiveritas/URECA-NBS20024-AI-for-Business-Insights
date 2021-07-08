@@ -2,5 +2,5 @@
 
 ## Dependencies
 ```
-pip install jupyter numpy pandas
+pip install jupyter numpy pandas matplotlib
 ```
